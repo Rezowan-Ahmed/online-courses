@@ -23,6 +23,7 @@ const Cart = (props) => {
             })
         }
         <h4 className="total-price">Total Price : ${props.totalCost}</h4>
+        <button className="btn btn-success" style={{margin:'30px'}}>Review</button>
         </div>
     );
 };
