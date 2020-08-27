@@ -1,0 +1,9 @@
+.course-container{
+  display:flex;
+  width:100%;
+  
+}
+.cart{
+  width:100%;
+  border-left:1px solid lightgray;
+}
